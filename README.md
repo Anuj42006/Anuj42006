@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a Diploma student in Electronics Engineering w
 
 💼 LinkedIn:https://www.linkedin.com/in/anuj-kumar-27864731a/
 
-💻 GitHub: github.com/Anuj42006
+💻 GitHub: https://github.com/Anuj42006
 
 📧 Email: anujkumar@gmail42006.com
 
