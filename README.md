@@ -40,13 +40,13 @@ Welcome to my GitHub profile! I'm a Diploma student in Electronics Engineering w
 
 ### 📫 Connect with Me
 
-🌐 Portfolio: your-portfolio-link.com
+🌐 Portfolio:(https://anuj-portfolio-01.web.app/)
 
-💼 LinkedIn: linkedin.com/in/yourprofile
+💼 LinkedIn:(https://www.linkedin.com/in/anuj-kumar-27864731a/)
 
-💻 GitHub: github.com/anujgithub
+💻 GitHub: github.com/Anuj42006
 
-📧 Email: youremail@gmail.com
+📧 Email: anujkumar@gmail.com
 
 🔗 Resume/CV: Download Here
 
