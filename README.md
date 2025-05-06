@@ -31,14 +31,14 @@ Welcome to my GitHub profile! I'm a Diploma student in Electronics Engineering w
 
 ### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuj42006&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj42006&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj42006&layout=compact&theme=tokyonight)
 
 ---
 
