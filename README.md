@@ -1,76 +1,178 @@
+# 🚀 Featured Projects
 
-# 👋 Hi there! I'm Anuj
-
-👨‍💻 **Electronics Engineer** | 🔌 **IoT & Embedded Systems Developer** | 🎨 **Frontend Developer** | 🌐 **Tech Enthusiast**
-
-Welcome to my GitHub profile! I'm currently pursuing a Diploma in Electronics Engineering and deeply passionate about building innovative systems using **IoT**, **Microcontrollers**, **Web Dashboards**, and **modern frontend technologies**.
+A selection of client projects and personal products that demonstrate my experience in building modern, scalable, and user-focused web applications.
 
 ---
 
-## 🚀 About Me
-- 🛠️ **Projects**:  
-  • *Smart Waste Management System (IoT)*  
-  • *Women Safety Device (GPS + GSM)*  
-  • *Space Rover (IoT Prototype)*  
-  • *Water Cleaning Car – Semi-automated water surface waste collector*  
-  • *Student Grade Calculator – (C Programming)*  
-  • *Portfolio Website – (HTML, CSS, JavaScript)*  
-- 🏆 **Achievements**:  
-  • **Finalist** – Smart India Hackathon (Internal Round)  
-  • **Participant** – Technex'25 – *IIT BHU (IOMATIC Prototype Competition)*  
-  • **Internships**:  
-    • *Embedded Systems Intern – NIELIT, Patna*  
-    • *Implant Training – TRTC, Patna*  
-  • **Campus Ambassador** – *E-Cell & TechFeast, IIT Bombay*
+## 💼 Freelance Web Development
+
+### 🌐 Bizneeti Services
+A responsive agency website designed to showcase digital solutions, branding services, web development, branding strategies, and client acquisition workflows.
+
+**🔹 Highlights**
+- Responsive & Modern UI
+- Service Showcase
+- Lead Generation
+- SEO Friendly
+- Performance Optimized
+
+**🛠 Tech Stack**
+`React` `Tailwind CSS` `JavaScript`
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🎓 Bizneeti Academy
+Developed a modern learning platform featuring industry-focused courses, enrollment workflows, and an intuitive user experience.
 
-### ⚙️ Hardware & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=esphome&logoColor=white)
-![Sensors](https://img.shields.io/badge/Various%20Sensors-DarkGreen?style=for-the-badge)
-![GSM Module](https://img.shields.io/badge/GSM_Module-blue?style=for-the-badge)
-![Servo Motor](https://img.shields.io/badge/Servo_Motors-orange?style=for-the-badge)
+**🔹 Highlights**
+- Course Management
+- Enrollment Workflow
+- Responsive Design
+- Interactive UI
+- Optimized Performance
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend & Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino)
-![Fritzing](https://img.shields.io/badge/Fritzing-E44D27?style=for-the-badge)
+**🛠 Tech Stack**
+`React` `Node.js` `MongoDB`
 
 ---
 
-## 📊 GitHub Stats
+### ✈️ Deep Into India
+Designed and developed a travel and hospitality platform featuring destination discovery, accommodation listings, booking workflows, and a seamless responsive experience.
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj42006&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj42006&layout=compact&theme=tokyonight)
+**🔹 Highlights**
+- Destination Discovery
+- Accommodation Listings
+- Booking Workflow
+- Responsive Design
+- SEO Optimized
 
----
-
-## 📫 Connect with Me
-
-- 🌐 **Portfolio**: [anuj-portfolio-01.web.app](https://anuj-portfolio-01.web.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/anuj-kumar-27864731a](https://www.linkedin.com/in/anuj-kumar-27864731a/)
-- 💻 **GitHub**: [github.com/Anuj42006](https://github.com/Anuj42006)
-- 📧 **Email**: `anujkumar@gmail42006.com`
-- 📄 **Resume**: [Download Here](https://github.com/anujgithub/anuj-profile/raw/main/Anuj_Resume.pdf)
+**🛠 Tech Stack**
+`React` `Node.js` `MongoDB`
 
 ---
 
-> 🧑‍💻 *"Turning tech into impact — one project at a time."*
+### 🏢 Elite Mahana
+Developed a modern business website focused on branding, responsive design, and optimized performance.
+
+**🔹 Highlights**
+- Premium UI
+- Mobile Responsive
+- Fast Loading
+- Business Showcase
+
+**🛠 Tech Stack**
+`React` `Tailwind CSS`
+
+---
+
+### 📍 Easy To Find
+Built a clean and responsive business platform with an intuitive interface and performance-focused architecture.
+
+**🔹 Highlights**
+- Responsive Design
+- Clean User Interface
+- Fast Performance
+- Business Directory
+
+**🛠 Tech Stack**
+`React` `JavaScript`
+
+---
+
+### 👗 Gaurika Collections
+Created a premium fashion and retail website with a modern shopping experience and mobile-first responsive design.
+
+**🔹 Highlights**
+- Fashion Showcase
+- Elegant UI
+- Mobile First
+- Performance Optimized
+
+**🛠 Tech Stack**
+`React` `Tailwind CSS`
+
+---
+
+# 💡 Personal & Innovation Projects
+
+### 🚀 Cozyo — Startup Platform
+Developed a modern startup platform to showcase products, services, and business solutions with a clean and responsive interface.
+
+**🔹 Highlights**
+- Startup Showcase
+- Product Pages
+- Modern UI
+- Responsive Design
+
+**🛠 Tech Stack**
+`React` `Node.js` `MongoDB`
+
+---
+
+### ⚡ The Sensors
+Built an educational platform for electronics enthusiasts to share projects, technical documents, tutorials, and learning resources.
+
+**🔹 Highlights**
+- Electronics Projects
+- Technical Articles
+- Resource Library
+- Community Platform
+
+**🛠 Tech Stack**
+`React` `Firebase`
+
+---
+
+### 🛡️ Anti-Cheating Exam System
+Designed and developed a secure online examination platform with integrity monitoring and intelligent proctoring capabilities.
+
+**🔹 Highlights**
+- Online Examination
+- Secure Authentication
+- Anti-Cheating Features
+- Proctoring System
+- Result Management
+
+**🛠 Tech Stack**
+`React` `Node.js` `MongoDB`
+
+---
+
+# 💼 Services I Offer
+
+- 🌐 Business Websites
+- 🚀 Landing Pages
+- 💻 Full-Stack Web Applications
+- 📊 Admin Dashboards
+- 🎓 Learning Management Systems
+- 🤖 AI Integration
+- 🔗 REST APIs
+- 🛒 E-Commerce Websites
+- 📅 Booking Platforms
+- 🏢 Startup MVP Development
+- 🎨 Website Redesign
+- ⚡ Performance Optimization
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Building:
+  - Modern Full-Stack Web Applications
+  - AI-Powered Web Experiences
+  - Business & Startup Websites
+  - Educational Platforms
+
+Learning:
+  - Advanced Backend Architecture
+  - AI/ML System Design
+  - AWS Cloud Infrastructure
+  - DevOps & System Design
+
+Open To:
+  - Full-Time Opportunities
+  - Freelance Projects
+  - Startup Collaborations
+  - Open Source Contributions
+```
