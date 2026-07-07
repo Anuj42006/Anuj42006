@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A855F7&height=280&section=header&text=Anuj%20Kumar&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Electronics%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A855F7&height=280&section=header&text=Anuj%20Kumar&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Electronics%20Engineer%20|%20AI%20&%20IoT%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;React+Developer;Frontend+Engineer;AI+%26+IoT+Enthusiast;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;React+Developer;Frontend+Engineer;AI+%26+IoT+Enthusiast;Building+Products+That+Solve+Real+Problems"/>
 </a>
+
+</div>
 
 <br/><br/>
 
@@ -345,59 +347,6 @@ Python-based desktop application for cafe management.
 
 <br/>
 
-## 🟣 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,c,cpp,html,css" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,threejs" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php,python" />
-<br/>
-<img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Authentication-6D28D9?style=for-the-badge" />
-
-**Artificial Intelligence**
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI_APIs-6D28D9?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq_API-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Integrations-6D28D9?style=for-the-badge" />
-</p>
-
-**IoT & Embedded**
-
-<p>
-<img src="https://img.shields.io/badge/Arduino-6D28D9?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-6D28D9?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/PLC_Programming-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microcontrollers-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sensors-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded_C-6D28D9?style=for-the-badge" />
-</p>
-
-**Cloud & Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker,linux,vscode,postman,firebase,arduino" />
-
-</div>
-
-<br/>
-
-## 🟣 Services
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
 
 ### 🌐 Business Websites
 Professional, brand-aligned websites built for credibility and conversions.
@@ -560,24 +509,6 @@ Across all of this work, I consistently prioritize **performance optimization** 
 
 <br/>
 
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0D1117" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff" width="100%" />
-
-</div>
-
-<br/>
 
 ## 🟣 Current Focus
 
